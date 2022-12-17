@@ -18,4 +18,4 @@
 </details>
 
 <h3>Where to find me</h3>
-<p>It's easy! You can find me through my <a href="https://www.linkedin.com/in/joão-lisboa-35335013b/">Linkedin</a> or even DM me on <a href="https://www.instagram.com/pseudomano">Instagram</a> (although I don't have many photos in there).
+<p>It's easy! You can find me through my <a href="https://www.linkedin.com/in/joão-lisboa/">Linkedin</a> or even DM me on <a href="https://www.instagram.com/pseudomano">Instagram</a> (although I don't have many photos in there).
